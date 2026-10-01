@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/palindrome-linked-list">Palindrome Linked List</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given the <code>head</code> of a singly linked list, return <code>true</code> if it is a palindrome or <code>false</code> otherwise.</p>
