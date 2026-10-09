@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/binary-search">Binary Search</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>.</p>
